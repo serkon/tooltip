@@ -23,5 +23,5 @@ Simple, effective, information bubbles could clickable Tooltip
 		&lt;/div&gt;
 		&lt;div class="tooltip-arrow">&lt;/div&gt;
 	&lt;/div>
-&lt;/span&gt; yapıyorum&lt;/div&gt;
+&lt;/span&gt;
 </pre>
