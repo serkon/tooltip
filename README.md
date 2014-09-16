@@ -12,7 +12,6 @@ Simple, effective, information bubbles could clickable Tooltip
  * @parameter {number} options.duration - The default milisecond of effect duration time.
  * @parameter {number} options.easingIn - The default effect of on mouseenter tooltip trigger.
  * @parameter {number} options.easingOut - The default effect of on mouseleave tooltip trigger.
- * 
  
 
 
