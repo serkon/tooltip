@@ -18,12 +18,12 @@ Simple, effective, information bubbles could clickable Tooltip
 
 ! HTML Usage Sample
 =============================
-<span class="tooltip">
+&lt;span class="tooltip"&gt;
 	Deneme
-	<div class="tooltip-container">
-		<div class="tooltip-content">
-			<b>Bold</b> text here<br /><a href="">Açıklama yetmeyebilir buraya kadarki kısımda</a>
-		</div>
-		<div class="tooltip-arrow"></div>
-	</div>
-</span> yapıyorum</div>
+	&lt;div class="tooltip-container"&gt;
+		&lt;div class="tooltip-content"&gt;
+			&lt;b>Bold&lt;/b&gt; text here&lt;br /&gt;&lt;a href=""&gt;Açıklama yetmeyebilir buraya kadarki kısımda&lt;/a&gt;
+		&lt;/div&gt;
+		&lt;div class="tooltip-arrow">&lt;/div&gt;
+	&lt;/div>
+&lt;/span&gt; yapıyorum&lt;/div&gt;
