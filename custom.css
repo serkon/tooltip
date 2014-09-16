@@ -1,0 +1,61 @@
+/* line 19, custom.scss */
+.ie8 .tooltip-content {
+  border: 1px solid #999999; }
+
+/* line 22, custom.scss */
+.ie8 .tooltip-arrow {
+  background: transparent;
+  visibility: hidden; }
+
+/* line 26, custom.scss */
+.tooltip {
+  position: relative;
+  display: inline-block; }
+  /* line 29, custom.scss */
+  .tooltip .tooltip-container {
+    display: none;
+    position: absolute;
+    z-index: 2;
+    zoom: 1;
+    opacity: 0;
+    width: auto;
+    white-space: nowrap; }
+    /* line 38, custom.scss */
+    .tooltip .tooltip-container .tooltip-content {
+      line-height: 22px;
+      padding: 15px;
+      background: #fff;
+      border-top: 5px solid #e45a5a;
+      border-radius: 0;
+      color: #333333;
+      -webkit-box-shadow: 1px 1px 12px #999999;
+      -moz-box-shadow: 1px 1px 12px #999999;
+      box-shadow: 1px 1px 12px #999999; }
+      /* line 46, custom.scss */
+      .tooltip .tooltip-container .tooltip-content a {
+        color: #0d6edb; }
+    /* line 50, custom.scss */
+    .tooltip .tooltip-container .tooltip-arrow {
+      width: 40px;
+      height: 20px;
+      position: absolute;
+      overflow: hidden;
+      left: calc(50% - 20px); }
+    /* line 57, custom.scss */
+    .tooltip .tooltip-container .tooltip-arrow:after {
+      content: "";
+      position: absolute;
+      width: 25px;
+      height: 25px;
+      background: #fff;
+      transform: rotate(45deg);
+      bottom: 12px;
+      -webkit-box-shadow: 0 0 7px #999999;
+      -moz-box-shadow: 0 0 7px #999999;
+      box-shadow: 0 0 7px #999999;
+      left: 10px; }
+    /* line 68, custom.scss */
+    .tooltip .tooltip-container a {
+      text-decoration: none; }
+
+/*# sourceMappingURL=custom.css.map */
