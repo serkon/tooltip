@@ -18,6 +18,8 @@ Simple, effective, information bubbles could clickable Tooltip
 
 ! HTML Usage Sample
 =============================
+
+<pre>
 &lt;span class="tooltip"&gt;
 	Deneme
 	&lt;div class="tooltip-container"&gt;
@@ -27,3 +29,4 @@ Simple, effective, information bubbles could clickable Tooltip
 		&lt;div class="tooltip-arrow">&lt;/div&gt;
 	&lt;/div>
 &lt;/span&gt; yapıyorum&lt;/div&gt;
+</pre>
